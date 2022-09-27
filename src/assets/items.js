@@ -11,7 +11,7 @@ const items = [{
     "title": "Simple Cloud",
     "subtitle": "最新地址",
     "image": website,
-    "link": "https://www.spcloud.me/index.php" //your personal website or portfolio  link
+    "link": "https://www.spcloud.me/index.php#/register?code=T0WVq9tm" //your personal website or portfolio  link
 },
 {
     "title": "Telegram 频道",
